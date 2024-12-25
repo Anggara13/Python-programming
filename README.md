@@ -1,2 +1,2 @@
-# Python-programming
+# Python-programming-with DQLab
 Training
